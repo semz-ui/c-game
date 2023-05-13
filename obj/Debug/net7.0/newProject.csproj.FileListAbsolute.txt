@@ -1,0 +1,15 @@
+/Users/home/Documents/csharptut/newProject/bin/Debug/net7.0/newProject
+/Users/home/Documents/csharptut/newProject/bin/Debug/net7.0/newProject.deps.json
+/Users/home/Documents/csharptut/newProject/bin/Debug/net7.0/newProject.runtimeconfig.json
+/Users/home/Documents/csharptut/newProject/bin/Debug/net7.0/newProject.dll
+/Users/home/Documents/csharptut/newProject/bin/Debug/net7.0/newProject.pdb
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.csproj.AssemblyReference.cache
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.AssemblyInfoInputs.cache
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.AssemblyInfo.cs
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.csproj.CoreCompileInputs.cache
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.dll
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/refint/newProject.dll
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.pdb
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/newProject.genruntimeconfig.cache
+/Users/home/Documents/csharptut/newProject/obj/Debug/net7.0/ref/newProject.dll
